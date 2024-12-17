@@ -10,7 +10,7 @@
         <meta name="keywords" content=""/> 
         <meta name="description" content=""/> 
         <meta name="author" content=""/> 
-        <title>Shalom Foundation Nursery and Primary Scool</title>         
+        <title>Brighton</title>         
         <!-- slider stylesheet -->         
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css"/> 
         <!-- bootstrap core css -->         
@@ -21,8 +21,9 @@
         <link href="css/style.css" rel="stylesheet"/> 
         <!-- responsive style -->         
         <link href="css/responsive.css" rel="stylesheet"/> 
-    </head>
- <div class="bg-light hero_area" style="margin-bottom: 30px; float: none; width: 1996px; height: 216px;">
+    </head>     
+    <body> 
+        <div class="bg-light hero_area" style="margin-bottom: 30px; float: none; width: 1996px; height: 216px;">
             <!-- header section strats -->             
             <header class="bg-success header_section"> 
                 <img src="images/logo.png.png" class="display-1 float-left shadow-lg text-center" height="69px" width="66px">
