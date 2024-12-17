@@ -10,7 +10,7 @@
         <meta name="keywords" content=""/> 
         <meta name="description" content=""/> 
         <meta name="author" content=""/> 
-        <title>Brighton</title>         
+        <title>Shalom Foundation Nursery and Primary School</title>         
         <!-- slider stylesheet -->         
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css"/> 
         <!-- bootstrap core css -->         
@@ -29,7 +29,7 @@
                 <img src="images/logo.png.png" class="display-1 float-left shadow-lg text-center" height="69px" width="66px">
                 <div class="container"> 
                     <nav class="navbar navbar-expand-lg custom_nav-container "> <a class="navbar-brand" href="index.html"> <img src="images/logo.png" alt=""> <span><p> 
-              shalom foundatio n/p.s</p></span><span></span> </a> 
+              shalom foundation/p.s</p></span><span></span> </a> 
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> 
                         </button>                         
                         <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
